@@ -1,7 +1,7 @@
 <?php
 
 $usuarios = 'root';
-$senha = 'slschooltcc';
+$senha = '';
 
 try {
     $conexao = new PDO("mysql:host=localhost;dbname=escolatcc", $usuarios, $senha);
