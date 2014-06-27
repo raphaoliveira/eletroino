@@ -29,7 +29,7 @@
                 <td>Linux Network</td>
                 <td>60 horas/aula</td>
                 <td>R$: 600,00</td>
-                <td>4 x R$: 155,00</td>
+                <td>4 x R$: 160,00</td>
                 <td><a class="btn" href="linux_network.php" target="_blank">Saiba mais &raquo;</a></td>
               </tr>
               <tr class="warning">
